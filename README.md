@@ -19,7 +19,7 @@
 * Android Debug Bridge v1.0.41 (Version 33.0.0-8141338, March 2022)
 * Full functional ADB (Android Debug Bridge) & Fastboot
 * Open CMD.bat to easily open a Command Prompt
-* Only x.xxMB (compressed x.xxMB)[/CODE]
+* Only 7.47MB (compressed 3.45MB)[/CODE]
 
 ## Requirements:
 * Windows OS

@@ -19,11 +19,11 @@
 * Android Debug Bridge v1.0.41 (Version 33.0.0-8141338, March 2022)
 * Full functional ADB (Android Debug Bridge) & Fastboot
 * Open CMD.bat to easily open a Command Prompt
-* Only 7.47MB (compressed 3.45MB)[/CODE]
+* Only 7.47MB (compressed 3.45MB)
 
 ## Requirements:
 * Windows OS
-* USB Driver for your Device or Universal ADB Driver[/CODE]
+* USB Driver for your Device or Universal ADB Driver
 
 ## Developer Options & USB Debugging:
 1. Install the USB Driver for your Phone or Universal Adb Driver.

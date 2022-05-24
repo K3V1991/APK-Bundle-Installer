@@ -4,16 +4,14 @@
 <br />
 
 <p align="center">
-<a href="https://forum.xda-developers.com/t/tool-windows-adb-fastboot-march-2022.3944288/" alt="XDA Thread"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
+<a href="https://forum.xda-developers.com/t/tool-windows-apk-bundle-installer.4449651/" alt="XDA Thread"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
 <a href="" alt="Latest Release"><img src="https://img.shields.io/github/v/release/K3V1991/APK-Bundle-Installer?color=blueviolet&label=Latest%20Release"></a>
-<a href="" alt="Downloads"><img src="https://img.shields.io/github/downloads/K3V1991/APK-Bundle-Installer/total?label=Downloads"></a>
+<a href="" alt="Downloads"><img src="https://img.shields.io/github/downloads/K3V1991/APK-Bundle-Installer/total?color=green&label=Downloads"></a>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="Donate-PayPal"><img src="https://img.shields.io/badge/Donate-PayPal-blue"></a>
 <a href="https://github.com/K3V1991/Donate-Crypto/blob/main/README.md" alt="Donate-Crypto"><img src="https://img.shields.io/badge/Donate-Crypto-yellow"></a>
 </p>
 <hr>
 <br />
-<br />
-
 
 ## NFO:
 * Split APK Installer to install APK Bundles/Split APKs
@@ -22,12 +20,10 @@
 * Full functional ADB (Android Debug Bridge) & Fastboot
 * Open CMD.bat to easily open a Command Prompt
 * Only x.xxMB (compressed x.xxMB)[/CODE]
-<br />
 
 ## Requirements:
 * Windows OS
 * USB Driver for your Device or Universal ADB Driver[/CODE]
-<br />
 
 ## Developer Options & USB Debugging:
 1. Install the USB Driver for your Phone or Universal Adb Driver.
@@ -39,7 +35,6 @@
 7. Once you’re in the Command Prompt, enter the following Command: adb devices
 8. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.).
 9. Succesful enabled USB Debugging.
-<br />
 
 ## Unable to connect to ADB:
 1. AMD Bug? - https://forum.xda-developers.com/t/fix-fastboot-issues-on-ryzen-based-pcs.4186321/
@@ -51,12 +46,11 @@
 and once it says "waiting for device" plug in your USB Cable
 7. Windows: Click "Change advanced power setting" on your chosen Plan and expand "USB Settings". Under "USB Settings" Section, expand "USB selective suspend setting" and change it to "Disabled" for On Battery and Plugged In.
 8. Try another PC
-<br />
 
 ## Usage:
 1. Download latest Release
 2. Extract the Zip Archive
 3. Place the APKs in the APKs Folder
 3. Double click on APK Bundle Installer.bat
-4. Streamed Install begins
+4. Type: y and hit Enter to start Streamed Install
 5. You shoud see Success after Installation

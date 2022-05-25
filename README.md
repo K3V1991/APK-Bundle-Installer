@@ -25,14 +25,17 @@
 * Windows OS
 * USB Driver for your Device or Universal ADB Driver
 
-## Developer Options & USB Debugging:
+## Enable Developer Options & USB Debugging:
 1. Install the USB Driver for your Phone or Universal Adb Driver.
 2. On your Phone, go to Settings > About Phone. Find the Build Number and tap on it 7 times to enable Developer Options.
 3. Now enter System > Developer Options and find "USB debugging" and enable it.
 4. Plug your Phone into the Computer and change it from "Charge only" to "File Transfer" Mode.
-5. On your Computer, browse to the directory where you extracted the Portable Version or use Tiny ADB & Fastboot Shortcut.
-6. Launch a Command Prompt with Open CMD.bat or use Tiny ADB & Fastboot Shortcut.
-7. Once you’re in the Command Prompt, enter the following Command: adb devices
+5. On your Computer, browse to the Directory where you extracted the APK Bundle Installer Zip.
+6. Launch a Command Prompt with Open CMD.bat.
+7. Once you’re in the Command Prompt, enter the following Command:
+```
+adb devices
+```
 8. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.).
 9. Succesful enabled USB Debugging.
 

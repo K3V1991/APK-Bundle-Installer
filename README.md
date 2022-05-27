@@ -57,3 +57,13 @@ and once it says "waiting for device" plug in your USB Cable
 3. Double click on APK Bundle Installer.bat
 4. Type: y and hit Enter to start Streamed Install
 5. You shoud see Success after Installation
+<br />
+
+## Screenshots:
+<img src="https://i.ibb.co/g7RwMYY/Main.png" ></a>
+<br />
+<br />
+<img src="https://i.ibb.co/gj0W4DM/Stream.png" ></a>
+<br />
+<br />
+<img src="https://i.ibb.co/VQNtvGP/Success.png" ></a>

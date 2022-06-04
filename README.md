@@ -23,6 +23,7 @@
 
 ## Requirements:
 * Windows OS
+* PowerShell
 * USB Driver for your Device or Universal ADB Driver
 
 ## Enable Developer Options & USB Debugging:

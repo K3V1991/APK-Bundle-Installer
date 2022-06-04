@@ -3,7 +3,6 @@ title APK Bundle Installer
 color 0a
 powershell -command "&{(get-host).ui.rawui.windowsize=@{width=75;height=50};}"
 chcp 65001 >nul 2>&1
-
 echo ╔════════════════════════════════════════════════════════════════════════╗
 echo ║                                                                        ║
 echo ║                                                                        ║

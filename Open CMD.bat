@@ -1,4 +1,4 @@
 @echo off
-title ADB and Fastboot++
+title CMD
 color 0a
 cmd.exe

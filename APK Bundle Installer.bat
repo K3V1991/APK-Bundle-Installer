@@ -1,5 +1,5 @@
 @echo off
-title APK Bundle Installer
+title APK Bundle Installer v1.0.2
 color 0a
 powershell -command "&{(get-host).ui.rawui.windowsize=@{width=75;height=50};}"
 chcp 65001 >nul 2>&1
@@ -30,8 +30,6 @@ set "reply=y"
 set /p "reply=Install APKs from APKs Folder (Y/N)?: "
 if /i not "%reply%" == "y" goto :eof
 echo ══════════════════════════════════════════════════════════════════════════
-echo.
-echo.
 setlocal enabledelayedexpansion
 set SCRIPT_PATH=%~dps0
 set TARGET_PATH=/data/local/tmp/

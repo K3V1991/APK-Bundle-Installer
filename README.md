@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/kx3R2b2/APK-Bundle-Installer.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/APK-Bundle-Installer/blob/main/APK-Bundle-Installer.png" width="200"></a>
 <h1 align="center"><b>APK Bundle Installer</b></h1>
 <h4 align="center">Batch Script that allow you to install APK Bundles/Split APKs</h4>
 <br />

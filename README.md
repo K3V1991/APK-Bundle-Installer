@@ -68,10 +68,10 @@ adb devices
 <br />
 
 ## Screenshots:
-<img src="https://i.ibb.co/g7RwMYY/Main.png"></a>
+<img src="https://github.com/K3V1991/APK-Bundle-Installer/blob/main/Main.png"></a>
 <br />
 <br />
-<img src="https://i.ibb.co/gj0W4DM/Stream.png"></a>
+<img src="https://github.com/K3V1991/APK-Bundle-Installer/blob/main/Stream.png"></a>
 <br />
 <br />
-<img src="https://i.ibb.co/VQNtvGP/Success.png"></a>
+<img src="https://github.com/K3V1991/APK-Bundle-Installer/blob/main/Success.png"></a>

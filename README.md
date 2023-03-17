@@ -15,7 +15,7 @@
 <br />
 
 ## NFO:
-* Android Debug Bridge v1.0.41 (Version 33.0.2-8557947, May 2022)
+* Android Debug Bridge v1.0.41 (Version 34.0.1-9680074, March 2023)
 * Full functional ADB (Android Debug Bridge)
 * Double click the Open CMD.bat to easily open a Command Prompt
 

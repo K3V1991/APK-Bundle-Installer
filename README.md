@@ -66,10 +66,4 @@ adb devices
 <br />
 
 ## Screenshots:
-<img src="https://github.com/K3V1991/APK-Bundle-Installer/blob/main/Main.png"></a>
-<br />
-<br />
-<img src="https://github.com/K3V1991/APK-Bundle-Installer/blob/main/Stream.png"></a>
-<br />
-<br />
-<img src="https://github.com/K3V1991/APK-Bundle-Installer/blob/main/Success.png"></a>
+<img src="https://github.com/K3V1991/APK-Bundle-Installer/blob/main/Screenshot.png"></a>

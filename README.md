@@ -65,5 +65,5 @@ adb devices
 </details>
 <br />
 
-## Screenshots:
+## Screenshot:
 <img src="https://github.com/K3V1991/APK-Bundle-Installer/blob/main/Screenshot.png"></a>

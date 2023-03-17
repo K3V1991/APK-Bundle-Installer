@@ -15,17 +15,22 @@
 <br />
 
 ## NFO:
-* Split APK Installer to install APK Bundles/Split APKs
-* Portable
 * Android Debug Bridge v1.0.41 (Version 33.0.2-8557947, May 2022)
-* Full functional ADB (Android Debug Bridge) & Fastboot
-* Double click the CMD.bat to easily open a Command Prompt
-* Only 7.47MB (compressed 3.45MB)
+* Full functional ADB (Android Debug Bridge)
+* Double click the Open CMD.bat to easily open a Command Prompt
 
 ## Requirements:
 * Windows OS
-* PowerShell
-* USB Driver for your Device or Universal ADB Driver
+* USB Driver for your Device or [Universal ADB Driver](https://adb.clockworkmod.com/)
+
+## Usage:
+1. Download latest Release
+2. Extract the Zip Archive
+3. Place the ```APKs``` in the ```APKs``` Folder
+3. Double click on ```APK Bundle Installer.bat```
+4. Type: ```y``` and hit ```Enter``` to start Streamed Install
+5. You shoud see Success after Installation
+<br />
 
 ## Enable Developer Options & USB Debugging:
 <details>
@@ -58,14 +63,6 @@ adb devices
 7. Windows: Click ```Change advanced power setting``` on your chosen Plan and expand ```USB Settings```. Under ```USB Settings``` Section, expand ```USB selective suspend setting``` and change it to ```Disabled``` for On Battery and Plugged In
 8. Try another PC
 </details>
-
-## Usage:
-1. Download latest Release
-2. Extract the Zip Archive
-3. Place the APKs in the APKs Folder
-3. Double click on APK Bundle Installer.bat
-4. Type: y and hit Enter to start Streamed Install
-5. You shoud see Success after Installation
 <br />
 
 ## Screenshots:
